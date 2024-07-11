@@ -1,18 +1,1 @@
-powershell
-  ls ~ mostrar conteúdo
-  cls ~ limpar conteúdo
-  cd ~ navegar entre pastas
-  cd .. ~ retroceder pastas
-  mkdir ~ criar pasta
-  echo "conteúdo" > arquivo.txt ~ criar arquivo.txt
-  cat arquivo.txt ~ ver conteúdo de um arquivo
-
-
-git
-  git init ~ iniciar
-  git status ~ verificar arquivos
-  git add "  " ~ adicionar o arquivo ao stage
-  git rm --cached "  " ~ remover arquico do stage
-
-  git config --global user.name "  "
-  git config --global user.email "  "
+llll
